@@ -2,7 +2,7 @@
 
 > ⚠️ Estado: ***EN DESARROLLO*** Versión académica
 
-Este proyecto permite gestionar la inscripción de nuevos deportistas (patinadores) en distintas modalidades de patinaje, ofreciendo la posibilidad de seleccionar disciplina, protecciones, cantidad de hidratantes y servicios de ciencias deportivas. El sistema calcula automáticamente el costo final con base en las elecciones realizadas.
+Implementacion que permite gestionar la inscripción de nuevos deportistas (patinadores) en distintas modalidades de patinaje, ofreciendo la posibilidad de seleccionar disciplina, protecciones, cantidad de hidratantes y servicios de ciencias deportivas. El sistema calcula automáticamente el costo final con base en las elecciones realizadas.
 
 ---
 
